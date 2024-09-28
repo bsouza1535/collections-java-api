@@ -84,7 +84,7 @@ public class CarrinhoDeCompras {
                     continuar = false;
                     break;
                 default:
-                    System.out.println("Valor não conhecido, o programa será finalizado!");
+                    System.out.println("Valor não conhecido, tente novamente!");
                     break;
             }
         }
