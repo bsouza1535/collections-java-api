@@ -1,6 +1,4 @@
-package main.java.Pesquisa;
-
-import main.java.OperacoesBasicas.CarrinhoDeCompras;
+package main.java.List.Pesquisa;
 
 import java.util.ArrayList;
 import java.util.List;

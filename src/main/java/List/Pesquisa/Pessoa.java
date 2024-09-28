@@ -1,7 +1,6 @@
-package main.java.Pesquisa;
+package main.java.List.Pesquisa;
 
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
